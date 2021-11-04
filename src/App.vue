@@ -8,6 +8,7 @@
     <router-link to="/ex01">Ex01</router-link>
     <router-link to="/ex02">Ex02</router-link>
     <router-link to="/ex03">Ex03</router-link>
+    <router-link to="/ex04">Ex04</router-link>
   </div>
 </template>
 
